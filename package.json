@@ -1,0 +1,21 @@
+{
+  "name": "batchimageresizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.340.0",
+    "es6-promise": "^4.2.5",
+    "gm": "^1.23.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bilal-tragate@bitbucket.org/tragate-tech/batchimageresizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/tragate-tech/batchimageresizer#readme"
+}
